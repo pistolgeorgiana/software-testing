@@ -1,9 +1,11 @@
+'''
 <dependency>
     <groupId>org.junit.jupiter</groupId>
     <artifactId>junit-jupiter-params</artifactId>
     <version>5.6.1</version>
     <scope>test</scope>
 </dependency>
+'''
 
 1. Unlink maven project, re-add it and reload maven project from the maven tool window:: https://imgur.com/2bVzAuf
 2. Delete the .idea folder and any *.iml files in your project folder and re-import the project from sources (https://www.jetbrains.com/help/idea/import-project-or-module-wizard.html)
