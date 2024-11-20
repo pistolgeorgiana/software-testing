@@ -1,8 +1,8 @@
 \<dependency\>
-    \<groupId\>org.junit.jupiter\</groupId>
-    \<artifactId\>junit-jupiter-params\</artifactId\>
-    \<version\>5.6.1\</version\>
-    \<scope\>test\</scope\>
+\n\t\<groupId\>org.junit.jupiter\</groupId>
+\n\t\<artifactId\>junit-jupiter-params\</artifactId\>
+\n\t\<version\>5.6.1\</version\>
+\n\t\<scope\>test\</scope\>
 \</dependency\>
 
 1. Unlink maven project, re-add it and reload maven project from the maven tool window:: https://imgur.com/2bVzAuf
